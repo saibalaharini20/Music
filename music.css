@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.splash-area {
+  background-image: url("https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/niat_static/niat_bootstrap/html_hyperlinks_1_v8_bg_1.jpg");
+  height: 100vh;
+  background-size: cover;
+  text-align: right;
+  padding: 70px;
+  font-family: "Monoton";
+}
+#p{
+    text-align: center;
+}
+.main-headline {
+  font-family: "Monoton";
+  font-size: 68px;
+  font-weight: 400;
+  margin-bottom: 36px;
+  color: #ff1493;
+  text-align: center;
+}
+
+.sub-headline {
+  font-size: 42px;
+  margin-bottom: 44px;
+  color: #ffd700;
+  font-family:Lobster;
+  text-align: center;
+}
+
+.festival-link {
+  color: #ff1493;
+  font-family:Lobster;
+  font-size: 38px;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.festival-section {
+  background-color: #000000;
+  text-align: right;
+  padding: 40px;
+  color: white;
+}
+
+.music-card {
+  margin: 10px;
+  text-align: center;
+}
+
+.music-img {
+  width: 100px;
+  height: 80px;
+  margin-bottom: 38px;
+  border-radius: 22px;
+  
+}
+
+.music-text {
+  font-size: 24px;
+  font-family: Lobster;
+  color: #ff1493;
+}
+
+.section-heading {
+  font-family: "Monoton";
+  font-size: 30px;
+  color: #ffd700;
+  margin-bottom: 44px;
+    text-align: center;
+}
+.section-heading2 {
+    font-family: "Monoton";
+    font-size: 30px;
+    color: #ffd700;
+    margin-bottom: 54px;
+  }
+  
+.lineup-section {
+  background-color: #1a1a1a;
+  padding: 85px;
+  color: white;
+}
+
+.tickets-section {
+  background-color: #000000;
+  padding: 85px;
+  text-align: right;
+  color: white;
+}
+
+.action-btn {
+  margin: 34px;
+  font-weight: 700;
+  text-align: center;
+}
